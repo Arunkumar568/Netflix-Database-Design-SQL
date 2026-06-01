@@ -1,6 +1,11 @@
 # Netflix-Database-Design-SQL
 Netflix Database Design using SQL
+
 # Netflix Database Design using SQL
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Database Design](https://img.shields.io/badge/Database-Design-green)
+![ER Diagram](https://img.shields.io/badge/ER-Diagram-orange)
 
 ## Project Overview
 
