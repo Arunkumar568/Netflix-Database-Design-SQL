@@ -14,6 +14,10 @@ This project demonstrates the design and implementation of a Netflix-style relat
 - Movie_Genres
 - Subscriptions
 
+- - ## ER Diagram
+
+![ER Diagram](netflix_er_diagram.png)
+
 ## Features
 
 - User Management
@@ -38,6 +42,8 @@ This project demonstrates the design and implementation of a Netflix-style relat
 - ER Modeling
 - Relationship Design
 - SQL Query Development
+
+
 
 ## Author
 
